@@ -1,0 +1,151 @@
+
+@media screen and (max-width : 920px) {
+
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+/*---Imagenes---*/
+.accesories{
+	background-image: url(../image/logo.png);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.lookbook{
+	background-image: url(../image/slider1.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.collection{
+	background-image: url(../image/banner1.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.newArrival{
+	background-image: url(../image/banner2.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.backlogos{
+	background-image: url(../image/client-bg.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+client-bg
+.guantesCafe{
+	background-image: url(../image/a1.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.guantesCafe2{
+	background-image: url(../image/a2.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.gorragris{
+	background-image: url(../image/b1.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.gorragris2{
+	background-image: url(../image/b2.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.mochilaNoire{
+	background-image: url(../image/c1.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.bolsoserpent{
+	background-image: url(../image/d1.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.cinturonleop{
+	background-image: url(../image/g2.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.gorritaBlue{
+	background-image: url(../image/e1.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.bolsaNoire2{
+	background-image: url(../image/c2.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+/*.{
+	background-image: url(../image/.jpg);
+	height:38em;
+	width: 100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}*/
+
+.textRed{
+	color: red;
+}
+
+.backobs{
+	background-color: rgba(0,0,0,0.6);
+}
+
+
+
+
+
+/*animaciones*/
+.tilt {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+ 
+
+
+
+
+
+
+footer{
+	background-color: gray;
+}
